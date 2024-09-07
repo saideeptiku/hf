@@ -1,6 +1,7 @@
 # ignore directory where models will be stored
 exported/*
 dummy_data/commander.txt
+scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
